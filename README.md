@@ -22,7 +22,7 @@ This project is the frontEnd the GoFincances application. [GoFinances BackEnd/AP
 
 - HTML
 - CSS
-- React App
+- React
 - [Styled Component](https://styled-components.com/)
 - Axios
 - TypeScript
