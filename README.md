@@ -18,7 +18,7 @@ This project is the frontEnd the GoFincances application. [GoFinances BackEnd/AP
 - [ ] Edit transaction
 - [ ] Delete transaction
 
-### Tecnologies
+### Technologies
 
 - HTML
 - CSS
